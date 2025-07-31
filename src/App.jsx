@@ -2,8 +2,10 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Carousel from "./components/Carousel";
 import MusicGrid from "./components/MusicGrid";
+import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 const App = () => {
     return (
@@ -13,6 +15,7 @@ const App = () => {
                 <Carousel/>
             </div>
             <MusicGrid/>
+            <Footer/>
         </div>
     );
 };

@@ -1,22 +1,25 @@
 import React from "react";
+import "./MusicCard.css";
 
-const MusicCard = ({ song }) => {
+const MusicCard = ({song}) => {
     return (
-        <div className="card" style={{ width: "18rem" }}>
-            <img
-                src={song.image}
-                className="card-img-top"
-                alt={song.name}
-                style={{ height: "200px", objectFit: "cover" }}
-            />
-            <div className="card-body">
-                <h5 className="card-title">{song.name}</h5>
-                <p className="card-text text-muted" style={{ fontSize: "0.9rem" }}>
-                    {song.description.slice(0, 100)}...
-                </p>
-                <p className="card-text">
-                    <strong>Price:</strong> ${song.sale_price.toLocaleString()}
-                </p>
+        <div className="music-card card border-0 shadow-sm h-100">
+            <div className="image-container">
+                <img
+                    src={song.image}
+                    alt={song.name}
+                    className="card-img-top img-fluid rounded-top"
+                />
+            </div>
+            <div className="card-body text-center">
+                <h5 className="card-title fw-bold mb-1">{song.name}</h5>
+                <p className="text small mb-1">{song.artistName}</p>
+                <p className="text-warning small mb-2">{song.genreName}</p>
+                {song.sale_price && (
+                    <p className="fw-bold text-light mb-0">
+                        ${song.sale_price.toLocaleString()}
+                    </p>
+                )}
             </div>
         </div>
     );
