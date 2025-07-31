@@ -1,8 +1,9 @@
 import React from "react";
+import "./Navbar.css"; // custom styles
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg custom-navbar">
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">
                     <img src="/musicx-logo.svg" alt="MUSICX Logo" height="40"/>

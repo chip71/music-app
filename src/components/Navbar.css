@@ -1,0 +1,21 @@
+.custom-navbar {
+    background: linear-gradient(135deg, #004d40, #0d47a1, #b28900);
+    background-size: 300% 300%; /* bigger background for animation */
+    animation: navbarVibe 8s ease-in-out infinite; /* smooth loop */
+    color: #ffffff;
+}
+
+@keyframes navbarVibe {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff !important;
+    transition: color 0.2s ease;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffd600 !important;
+}

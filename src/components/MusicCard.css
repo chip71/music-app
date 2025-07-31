@@ -1,21 +1,33 @@
-/* Center the entire grid of cards */
+/* Container: evenly space cards, same margin on both sides */
 .row.g-4 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; /* Center cards horizontally */
-    gap: 20px; /* Space between cards */
+    justify-content: center;
+    gap: 20px; /* consistent spacing */
+    padding: 20px; /* equal left-right padding */
+    box-sizing: border-box;
+    max-width: 1200px; /* keeps it centered on big screens */
+    margin: 0 auto;
 }
 
-/* Card styling */
+
+/* Shared card style (music, genre, artist) */
+.music-card,
+.genre-card,
+.artist-card {
+    flex: 0 1 220px; /* consistent card width */
+    margin: 0; /* rely on gap for spacing */
+}
+
+/* Music Card */
 .music-card {
     background-color: #1e1e1e;
     color: white;
     border-radius: 22px;
     transition: transform 0.25s ease, box-shadow 0.25s ease;
-    width: 100%;
-    max-width: 400px; /* Larger card */
-    margin: 0 auto;   /* Center each card in its slot */
     text-align: center;
+    padding-bottom: 10px;
+    width: 200px;
 }
 
 .music-card:hover {
@@ -41,60 +53,112 @@
     transform: scale(1.05);
 }
 
-.card-body {
-    padding: 22px;
-    font-size: 1.05rem;
+.card-title {
+    font-size: 1rem;
+    margin-bottom: 8px;
 }
+
+.small.text-warning {
+    font-size: 0.95rem;
+}
+
+/* Genre Card */
 .genre-card {
+    position: relative;
+    width: 200px;
+    aspect-ratio: 1 / 1;
+    border-radius: 20px;
     color: white;
     font-weight: bold;
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    transition: transform 0.2s ease;
+    font-size: 1.1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.genre-card::before,
+.genre-card::after {
+    content: "";
+    position: absolute;
+    bottom: -25px;
+    left: 0;
+    width: 300%;
+    height: 140px;
+    background-repeat: repeat-x;
+    background-size: 50% 100%;
+    pointer-events: none;
+}
+
+.genre-card::before {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 1200 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,40 C300,100 900,-20 1200,60 L1200,140 L0,140 Z' fill='rgba(255,255,255,0.3)'/%3E%3C/svg%3E");
+    animation: waveAnim1 6s linear infinite;
+    opacity: 0.5;
+}
+
+.genre-card::after {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 1200 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,60 C400,0 800,120 1200,60 L1200,140 L0,140 Z' fill='rgba(255,255,255,0.4)'/%3E%3C/svg%3E");
+    animation: waveAnim2 8s linear infinite;
+    opacity: 0.6;
+}
+
+@keyframes waveAnim1 {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-25%); }
+}
+
+@keyframes waveAnim2 {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-35%); }
 }
 
 .genre-card:hover {
     transform: translateY(-5px);
 }
 
-/* Gradient variations */
-.genre-gradient-1 {
-    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+.genre-gradient-1 { background: linear-gradient(135deg, #ff7eb3, #ff758c); }
+.genre-gradient-2 { background: linear-gradient(135deg, #43cea2, #185a9d); }
+.genre-gradient-3 { background: linear-gradient(135deg, #ff9966, #ff5e62); }
+.genre-gradient-4 { background: linear-gradient(135deg, #7f00ff, #e100ff); }
+.genre-gradient-5 { background: linear-gradient(135deg, #00c6ff, #0072ff); }
+
+/* Artist Card */
+/* Artist Section Container */
+.artist-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* smaller cards */
+    justify-content: center;
+    gap: 12px;
+    padding: 15px;
+    max-width: 1100px; /* narrower section */
+    margin: 0 auto;
 }
-.genre-gradient-2 {
-    background: linear-gradient(135deg, #43cea2, #185a9d);
-}
-.genre-gradient-3 {
-    background: linear-gradient(135deg, #ff9966, #ff5e62);
-}
-.genre-gradient-4 {
-    background: linear-gradient(135deg, #7f00ff, #e100ff);
-}
-.genre-gradient-5 {
-    background: linear-gradient(135deg, #00c6ff, #0072ff);
-}
+
+/* Artist Card */
 .artist-card {
     position: relative;
-    width: 160px;
-    aspect-ratio: 1 / 1; /* Square shape */
-    margin: 0 auto;
+    width: 200px; /* small card width */
+    aspect-ratio: 1 / 1;
     overflow: hidden;
-    border-radius: 15px;
+    border-radius: 14px;
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    transition: transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+    transition: transform 0.25s ease;
 }
 
 .artist-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.06);
 }
 
 .artist-card img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: filter 0.3s ease;
+    transition: filter 0.25s ease;
 }
 
 .artist-card:hover img {
@@ -107,13 +171,23 @@
     width: 100%;
     text-align: center;
     color: white;
-    background: rgba(0, 0, 0, 0.5);
-    padding: 8px;
+    background: rgba(0, 0, 0, 0.55);
+    padding: 6px;
+    font-size: 0.9rem;
     font-weight: bold;
     opacity: 0;
-    transition: opacity 0.3s ease;
+    transition: opacity 0.25s ease;
 }
 
 .artist-card:hover .artist-name {
     opacity: 1;
+}
+
+
+/* Text Fix */
+.card-title,
+.text {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
 }

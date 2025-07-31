@@ -1,0 +1,26 @@
+.custom-footer {
+    background: linear-gradient(135deg, #004d40, #0d47a1, #b28900);
+    background-size: 300% 300%;
+    animation: footerVibe 8s ease-in-out infinite;
+    color: #ffffff;
+}
+
+@keyframes footerVibe {
+    0% { background-position: 100% 50%; }
+    50% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+}
+
+.footer-link {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-link:hover {
+    color: #ffd600;
+}
+
+.footer-divider {
+    border-color: rgba(255, 255, 255, 0.3);
+}

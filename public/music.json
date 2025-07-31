@@ -5,12 +5,7 @@
       "name": "F1 Trillion",
       "image": "https://pbs.twimg.com/media/GQhRdgfWsAA5bWW.jpg:large",
       "description": "Post Malone has officially announced his country album, F-1 Trillion, is out August 16th via Mercury Records/Republic. He’s also dropped the latest duet from the project, “Pour Me a Drink” featuring Blake Shelton.",
-      "price": 5550000,
-      "quantity": 0,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 5440000,
-      "prominent": 0,
       "artistID": 1
     },
     {
@@ -18,12 +13,7 @@
       "name": "Let It Be",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotCgyWu3JAxs3HpPVgsFzlMsqIXe6qeol9A&s",
       "description": "\"Let It Be\" is the Beatles final studio album, released on May 8, 1970. Produced by Phil Spector, it includes iconic tracks like \"Let It Be,\" \"Get Back,\" and \"The Long and Winding Road.\"",
-      "price": 4500000,
-      "quantity": 27,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 3500000,
-      "prominent": 1,
       "artistID": 2
     },
     {
@@ -31,12 +21,7 @@
       "name": "IGOR",
       "image": "https://images.genius.com/607348d25e00338f23acfc74fd5821e8.1000x1000x1.jpg",
       "description": "\"Igor\" is the fifth studio album of Tyler, The Creator, released on May 17, 2019. It explores themes of love and heartbreak, blending hip-hop, R&B, neo-soul, and funk.",
-      "price": 1200000,
-      "quantity": 16,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 850000,
-      "prominent": 0,
       "artistID": 4
     },
     {
@@ -44,12 +29,7 @@
       "name": "Call Me If You Get Lost",
       "image": "https://media.pitchfork.com/photos/60cb72ddadc2201193add729/master/pass/Tyler-the-Creator.jpg",
       "description": "\"Call Me If You Get Lost\" is the sixth studio album of Tyler, The Creator, released on June 25, 2021. The album blends rap, jazz, and soul.",
-      "price": 3500000,
-      "quantity": 20,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 2500000,
-      "prominent": 1,
       "artistID": 4
     },
     {
@@ -57,12 +37,7 @@
       "name": "Hollywoods Bleeding",
       "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Post_Malone_-_Hollywood%27s_Bleeding.png",
       "description": "\"Hollywood's Bleeding\" is Post Malone's third studio album, released on September 6, 2019. It blends hip-hop, pop, and rock.",
-      "price": 3849000,
-      "quantity": 13,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 3549000,
-      "prominent": 1,
       "artistID": 1
     },
     {
@@ -70,12 +45,7 @@
       "name": "Flower Boy",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Tyler%2C_the_Creator_-_Flower_Boy.png",
       "description": "\"Flower Boy\" is the fourth studio album by Tyler, The Creator, released on July 21, 2017.",
-      "price": 1280000,
-      "quantity": 10,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 880000,
-      "prominent": 0,
       "artistID": 4
     },
     {
@@ -83,12 +53,7 @@
       "name": "Thriller",
       "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
       "description": "\"Thriller\" is the sixth studio album by Michael Jackson, released on November 30, 1982. It became the best-selling album of all time.",
-      "price": 1300000,
-      "quantity": 30,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 1200000,
-      "prominent": 0,
       "artistID": 3
     },
     {
@@ -96,12 +61,7 @@
       "name": "Ngbthg",
       "image": "https://i.scdn.co/image/ab67616d0000b2733ab401869655adcf234c0912",
       "description": "Ngbthg is Ngot's second studio product, first released in September 2017.",
-      "price": 1520000,
-      "quantity": 30,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 1220000,
-      "prominent": 1,
       "artistID": 5
     },
     {
@@ -109,12 +69,7 @@
       "name": "3 (Tuyển tập nhạc Ngọt mới trẻ sôi động 2019)",
       "image": "https://i.scdn.co/image/ab67616d0000b273331cabd7863a2d675633bca4",
       "description": "The third album by Ngot, released in 2019, featuring fresh and dynamic tracks.",
-      "price": 1500000,
-      "quantity": 20,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 1300000,
-      "prominent": 1,
       "artistID": 5
     },
     {
@@ -122,12 +77,7 @@
       "name": "Gieo",
       "image": "https://i.scdn.co/image/ab67616d0000b2730771b564830e3dedb2d31358",
       "description": "\"Gieo\" is an album by Vietnamese indie band Ngot.",
-      "price": 3125000,
-      "quantity": 20,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 2500000,
-      "prominent": 1,
       "artistID": 5
     },
     {
@@ -135,12 +85,7 @@
       "name": "Dangerous",
       "image": "https://upload.wikimedia.org/wikipedia/vi/1/11/Michaeljacksondangerous.jpg",
       "description": "\"Dangerous\" is the eighth studio album by Michael Jackson, released in 1991.",
-      "price": 3800000,
-      "quantity": 14,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 3800000,
-      "prominent": 1,
       "artistID": 3
     },
     {
@@ -148,12 +93,7 @@
       "name": "Christmas",
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/MichaelBuble-Christmas%282011%29-Cover.png",
       "description": "\"Christmas\" is a holiday album by Michael Bublé, released in 2011.",
-      "price": 2500000,
-      "quantity": 25,
-      "status": 1,
       "genreID": 4,
-      "sale_price": 2500000,
-      "prominent": 1,
       "artistID": 6
     },
     {
@@ -161,12 +101,7 @@
       "name": "Love",
       "image": "https://upload.wikimedia.org/wikipedia/vi/7/70/MichaelBubleLove.png",
       "description": "\"Love\" is an album by Michael Bublé, released in 2018.",
-      "price": 1320000,
-      "quantity": 5,
-      "status": 1,
       "genreID": 4,
-      "sale_price": 1320000,
-      "prominent": 1,
       "artistID": 6
     },
     {
@@ -174,12 +109,7 @@
       "name": "Austin",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Post_Malone_-_Austin.png",
       "description": "Post Malone's album \"Austin\" showcases his guitar skills prominently.",
-      "price": 1180000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 1095000,
-      "prominent": 0,
       "artistID": 1
     },
     {
@@ -187,12 +117,7 @@
       "name": "Twelve Carat Toothache",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Post_Malone_-_Twelve_Carat_Toothache.png",
       "description": "Twelve Carat Toothache is the fourth studio album by Post Malone, released in 2022.",
-      "price": 850000,
-      "quantity": 10,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 850000,
-      "prominent": 1,
       "artistID": 1
     },
     {
@@ -200,12 +125,7 @@
       "name": "Parachutes",
       "image": "https://upload.wikimedia.org/wikipedia/vi/8/86/Coldplay_Parachutes.jpg",
       "description": "Parachutes is the debut album by Coldplay, released in 2000.",
-      "price": 3653000,
-      "quantity": 10,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 3653000,
-      "prominent": 1,
       "artistID": 7
     },
     {
@@ -213,12 +133,7 @@
       "name": "Music of the Spheres",
       "image": "https://m.media-amazon.com/images/I/71bR67Ia7YL._UF1000,1000_QL80_.jpg",
       "description": "\"Music of the Spheres\" is the ninth album by Coldplay, released in 2021.",
-      "price": 1450000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 1450000,
-      "prominent": 0,
       "artistID": 7
     },
     {
@@ -226,12 +141,7 @@
       "name": "A Head Full of Dreams",
       "image": "https://bizweb.dktcdn.net/100/411/628/products/a1p7bwyavml-sl1500.jpg?v=1620998489257",
       "description": "\"A Head Full of Dreams\" is the seventh album by Coldplay, released in 2015.",
-      "price": 2350000,
-      "quantity": 10,
-      "status": 1,
       "genreID": 3,
-      "sale_price": 2150000,
-      "prominent": 0,
       "artistID": 7
     },
     {
@@ -239,12 +149,7 @@
       "name": "99%",
       "image": "https://i.scdn.co/image/ab67616d0000b273b315e8bb7ef5e57e9a25bb0f",
       "description": "The debut album from rapper MCK.",
-      "price": 2499000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 2190000,
-      "prominent": 0,
       "artistID": 8
     },
     {
@@ -252,12 +157,7 @@
       "name": "Đánh Đổi",
       "image": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/7/c/7/77c7630469295fb4bbb7459bdd7a0c3b.jpg",
       "description": "Obito officially released his debut album \"Đánh Đổi\" with 20 tracks.",
-      "price": 1950000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 1950000,
-      "prominent": 1,
       "artistID": 9
     },
     {
@@ -265,12 +165,7 @@
       "name": "Ái",
       "image": "https://i.imgur.com/74mWGyEl.png",
       "description": "Tlinh's debut album includes the hit \"Nếu Lúc Đó\".",
-      "price": 2590000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 2,
-      "sale_price": 2190000,
-      "prominent": 0,
       "artistID": 10
     },
     {
@@ -278,12 +173,7 @@
       "name": "LẶNG",
       "image": "https://i.scdn.co/image/ab67616d00001e02df14c8985675c7610e5c3938",
       "description": "Shiki released the debut EP \"Lặng\" showcasing his versatility.",
-      "price": 1400000,
-      "quantity": 8,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 1200000,
-      "prominent": 1,
       "artistID": 11
     },
     {
@@ -291,12 +181,7 @@
       "name": "LOI CHOI",
       "image": "https://upload.wikimedia.org/wikipedia/vi/2/27/Wren_Evans_-_Loi_Choi.jpg",
       "description": "Wren Evans' debut album with 11 songs, including the hit \"Từng quen\".",
-      "price": 2800000,
-      "quantity": 10,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 2770000,
-      "prominent": 1,
       "artistID": 12
     },
     {
@@ -304,12 +189,7 @@
       "name": "After Hours",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png",
       "description": "\"After Hours\" is the fourth studio album by The Weeknd, released in 2020.",
-      "price": 3500000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 3500000,
-      "prominent": 1,
       "artistID": 13
     },
     {
@@ -317,34 +197,234 @@
       "name": "Dawn FM",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Weeknd_-_Dawn_FM.png",
       "description": "\"Dawn FM\" is the fifth studio album by The Weeknd, released in 2022.",
-      "price": 2500000,
-      "quantity": 15,
-      "status": 1,
       "genreID": 1,
-      "sale_price": 2500000,
-      "prominent": 1,
       "artistID": 13
+    },
+    {
+      "id": 26,
+      "name": "1989 (Taylor’s Version)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9zlkYVgwW8HatKhebYsttR9NolXLgEyBSQ&s",
+      "description": "Taylor Swift's 2023 re-recording of her 2014 pop classic '1989'.",
+      "genreID": 1,
+      "artistID": 14
+    },
+    {
+      "id": 27,
+      "name": "Chromakopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+      "description": "Chromakopia is the eighth studio album by the American rapper Tyler, the Creator",
+      "genreID": 4,
+      "artistID": 3
+    },
+    {
+      "id": 28,
+      "name": "DAMN.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
+      "description": "Kendrick Lamar's Pulitzer Prize-winning hip hop album from 2017.",
+      "genreID": 3,
+      "artistID": 16
+    },
+    {
+      "id": 29,
+      "name": "Breezin'",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Breezin_GB.jpg",
+      "description": "George Benson’s smooth jazz masterpiece released in 1976.",
+      "genreID": 4,
+      "artistID": 17
+    },
+    {
+      "id": 30,
+      "name": "Motion",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Calvin_Harris_-_Motion.png",
+      "description": "Calvin Harris's 2014 EDM album featuring 'Summer' and 'Blame'.",
+      "genreID": 7,
+      "artistID": 18
+    },
+    {
+      "id": 31,
+      "name": "AM",
+      "image": "https://upload.wikimedia.org/wikipedia/vi/0/04/Arctic_Monkeys_-_AM.png",
+      "description": "Arctic Monkeys' 2013 indie rock classic featuring 'Do I Wanna Know?'.",
+      "genreID": 8,
+      "artistID": 19
+    },
+    {
+      "id": 32,
+      "name": "Legend",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg",
+      "description": "Bob Marley's iconic 1984 reggae greatest hits album.",
+      "genreID": 10,
+      "artistID": 20
+    },
+    {
+      "id": 33,
+      "name": "OK Computer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+      "description": "Radiohead's groundbreaking 1997 alternative rock album.",
+      "genreID": 8,
+      "artistID": 21
+    },
+    {
+      "id": 34,
+      "name": "Californication",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/RedHotChiliPeppersCalifornication.jpg/250px-RedHotChiliPeppersCalifornication.jpg",
+      "description": "Red Hot Chili Peppers' legendary 1999 funk rock album.",
+      "genreID": 2,
+      "artistID": 22
     }
   ],
   "artists": [
-    { "id": 1, "name": "POST MALONE", "image": "https://media.npr.org/assets/img/2023/08/01/photo-credit----_custom-f88d70bce373dddb53cc79cbfa70b6c588aac581.jpg?s=1100&c=50&f=jpeg" },
-    { "id": 2, "name": "THE BEATLES", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4cjI5tt9T5uJ1JGv8GQVOge2EGFNKD7OKA&s" },
-    { "id": 3, "name": "MICHAEL JACKSON", "image": "/images/artists/michael-jackson.jpg" },
-    { "id": 4, "name": "TYLER THE CREATOR", "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg" },
-    { "id": 5, "name": "NGOT", "image": "https://media.viez.vn/prod/2024/3/20/image_d6a4e4dfb0.png" },
-    { "id": 6, "name": "MICHAEL BUBLE", "image": "/images/artists/michael-buble.jpg" },
-    { "id": 7, "name": "COLDPLAY", "image": "/images/artists/coldplay.jpg" },
-    { "id": 8, "name": "MCK", "image": "/images/artists/mck.jpg" },
-    { "id": 9, "name": "OBITO", "image": "/images/artists/obito.jpg" },
-    { "id": 10, "name": "TLINH", "image": "/images/artists/tlinh.jpg" },
-    { "id": 11, "name": "SHIKI", "image": "/images/artists/shiki.jpg" },
-    { "id": 12, "name": "WREN EVANS", "image": "/images/artists/wren-evans.jpg" },
-    { "id": 13, "name": "THE WEEKND", "image": "/images/artists/the-weeknd.jpg" }
+    {
+      "id": 1,
+      "name": "POST MALONE",
+      "image": "https://www.fr.de/assets/images/32/349/32349672-post-malone-2Eec.jpg"
+    },
+    {
+      "id": 2,
+      "name": "THE BEATLES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4cjI5tt9T5uJ1JGv8GQVOge2EGFNKD7OKA&s"
+    },
+    {
+      "id": 3,
+      "name": "MICHAEL JACKSON",
+      "image": "https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/5ba940ced14fecf35556ceff239bd88a/thumb/am-nhac-michael-jackson-van-nguyen-su-anh-huong-voi-dai-chung-michael-jackson-thumb43.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TYLER THE CREATOR",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b1ace64/2147483647/strip/true/crop/1867x2800+1202+0/resize/2000x3000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2Fbc%2Fe9a9a7f848bea1d3fd6bf5cf00bc%2Fgettyimages-1236582923.jpg"
+    },
+    {
+      "id": 5,
+      "name": "NGOT",
+      "image": "https://media.viez.vn/prod/2024/3/20/image_d6a4e4dfb0.png"
+    },
+    {
+      "id": 6,
+      "name": "MICHAEL BUBLE",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/2c14ccd/2147483647/strip/true/crop/4051x5401+0+0/resize/2000x2667!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fc7%2F20bfa4844045b34990195f22fea8%2F928379-et-michael-buble-03-mjc.jpg"
+    },
+    {
+      "id": 7,
+      "name": "COLDPLAY",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb"
+    },
+    {
+      "id": 8,
+      "name": "MCK",
+      "image": "https://yt3.googleusercontent.com/l5vxhDuExYW5firIfZt7VPNANUQ4wFQ4T7RL6DDoSW6Uao5aEdy-XvJu6xhJ_qeIR743Y_zm=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 9,
+      "name": "OBITO",
+      "image": "https://cdnphoto.dantri.com.vn/nWEiLgbBuVGxrjoJoLIVSJD1Leo=/thumb_w/1020/2024/07/31/obito-rapper-16-1722417901494.jpg"
+    },
+    {
+      "id": 10,
+      "name": "TLINH",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb230e62752ca87da1d85d0445"
+    },
+    {
+      "id": 11,
+      "name": "SHIKI",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb71581ba96c0dfa03f23beeb9"
+    },
+    {
+      "id": 12,
+      "name": "WREN EVANS",
+      "image": "https://images2.thanhnien.vn/528068263637045248/2025/5/12/wren-evans-1747030120905553092874.jpg"
+    },
+    {
+      "id": 13,
+      "name": "THE WEEKND",
+      "image": "https://media.vov.vn/sites/default/files/styles/large/public/2021-03/the-weeknd-album-cover-clean-1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "TAYLOR SWIFT",
+      "image": "https://phunuso.mediacdn.vn/603486343963435008/2025/5/29/taylor-swift-the-eras-tour-london-uk-1748478212499-17484782128681879652871.jpg"
+    },
+    {
+      "id": 15,
+      "name": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616100005174b4ddbc39706ef0f2ae0f7c9b"
+    },
+    {
+      "id": 16,
+      "name": "KENDRICK LAMAR",
+      "image": "https://variety.com/wp-content/uploads/2017/11/kendrick-lamar-variety-hitmakers.jpg"
+    },
+    {
+      "id": 17,
+      "name": "GEORGE BENSON",
+      "image": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/201603030019/1140x_a10-7_cTC/20160122ng-Jazz2-1_1750060680.jpg"
+    },
+    {
+      "id": 18,
+      "name": "CALVIN HARRIS",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1e4bcd2bef1896648762dd6b"
+    },
+    {
+      "id": 19,
+      "name": "ARCTIC MONKEYS",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f"
+    },
+    {
+      "id": 20,
+      "name": "BOB MARLEY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg"
+    },
+    {
+      "id": 21,
+      "name": "RADIOHEAD",
+      "image": "https://pyxis.nymag.com/v1/imgs/045/fed/60966d175a6a6e653e21f0eeda4884dca3-27-radiohead-1993.rsquare.w700.jpg"
+    },
+    {
+      "id": 22,
+      "name": "RED HOT CHILI PEPPERS",
+      "image": "https://static.independent.co.uk/2022/03/31/10/newFile-6.jpg"
+    }
   ],
   "genres": [
-    { "id": 1, "name": "POP" },
-    { "id": 2, "name": "RAP" },
-    { "id": 3, "name": "ROCK" },
-    { "id": 4, "name": "JAZZ" }
+    {
+      "id": 1,
+      "name": "Pop"
+    },
+    {
+      "id": 2,
+      "name": "Rock"
+    },
+    {
+      "id": 3,
+      "name": "Hip Hop"
+    },
+    {
+      "id": 4,
+      "name": "Jazz"
+    },
+    {
+      "id": 5,
+      "name": "R&B"
+    },
+    {
+      "id": 6,
+      "name": "Classical"
+    },
+    {
+      "id": 7,
+      "name": "Electronic"
+    },
+    {
+      "id": 8,
+      "name": "Indie"
+    },
+    {
+      "id": 9,
+      "name": "Country"
+    },
+    {
+      "id": 10,
+      "name": "Reggae"
+    }
   ]
 }
