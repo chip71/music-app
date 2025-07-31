@@ -5,7 +5,7 @@
       "name": "F1 Trillion",
       "image": "https://pbs.twimg.com/media/GQhRdgfWsAA5bWW.jpg:large",
       "description": "Post Malone has officially announced his country album, F-1 Trillion, is out August 16th via Mercury Records/Republic. He’s also dropped the latest duet from the project, “Pour Me a Drink” featuring Blake Shelton.",
-      "genreID": 2,
+      "genreID": 9,
       "artistID": 1
     },
     {
@@ -13,7 +13,7 @@
       "name": "Let It Be",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotCgyWu3JAxs3HpPVgsFzlMsqIXe6qeol9A&s",
       "description": "\"Let It Be\" is the Beatles final studio album, released on May 8, 1970. Produced by Phil Spector, it includes iconic tracks like \"Let It Be,\" \"Get Back,\" and \"The Long and Winding Road.\"",
-      "genreID": 3,
+      "genreID": 2,
       "artistID": 2
     },
     {
@@ -21,7 +21,7 @@
       "name": "IGOR",
       "image": "https://images.genius.com/607348d25e00338f23acfc74fd5821e8.1000x1000x1.jpg",
       "description": "\"Igor\" is the fifth studio album of Tyler, The Creator, released on May 17, 2019. It explores themes of love and heartbreak, blending hip-hop, R&B, neo-soul, and funk.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 4
     },
     {
@@ -37,7 +37,7 @@
       "name": "Hollywoods Bleeding",
       "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Post_Malone_-_Hollywood%27s_Bleeding.png",
       "description": "\"Hollywood's Bleeding\" is Post Malone's third studio album, released on September 6, 2019. It blends hip-hop, pop, and rock.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 1
     },
     {
@@ -45,7 +45,7 @@
       "name": "Flower Boy",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Tyler%2C_the_Creator_-_Flower_Boy.png",
       "description": "\"Flower Boy\" is the fourth studio album by Tyler, The Creator, released on July 21, 2017.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 4
     },
     {
@@ -61,7 +61,7 @@
       "name": "Ngbthg",
       "image": "https://i.scdn.co/image/ab67616d0000b2733ab401869655adcf234c0912",
       "description": "Ngbthg is Ngot's second studio product, first released in September 2017.",
-      "genreID": 3,
+      "genreID": 8,
       "artistID": 5
     },
     {
@@ -69,7 +69,7 @@
       "name": "3 (Tuyển tập nhạc Ngọt mới trẻ sôi động 2019)",
       "image": "https://i.scdn.co/image/ab67616d0000b273331cabd7863a2d675633bca4",
       "description": "The third album by Ngot, released in 2019, featuring fresh and dynamic tracks.",
-      "genreID": 3,
+      "genreID": 8,
       "artistID": 5
     },
     {
@@ -77,7 +77,7 @@
       "name": "Gieo",
       "image": "https://i.scdn.co/image/ab67616d0000b2730771b564830e3dedb2d31358",
       "description": "\"Gieo\" is an album by Vietnamese indie band Ngot.",
-      "genreID": 3,
+      "genreID": 8,
       "artistID": 5
     },
     {
@@ -109,7 +109,7 @@
       "name": "Austin",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Post_Malone_-_Austin.png",
       "description": "Post Malone's album \"Austin\" showcases his guitar skills prominently.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 1
     },
     {
@@ -117,7 +117,7 @@
       "name": "Twelve Carat Toothache",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Post_Malone_-_Twelve_Carat_Toothache.png",
       "description": "Twelve Carat Toothache is the fourth studio album by Post Malone, released in 2022.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 1
     },
     {
@@ -125,7 +125,7 @@
       "name": "Parachutes",
       "image": "https://upload.wikimedia.org/wikipedia/vi/8/86/Coldplay_Parachutes.jpg",
       "description": "Parachutes is the debut album by Coldplay, released in 2000.",
-      "genreID": 3,
+      "genreID": 1,
       "artistID": 7
     },
     {
@@ -133,7 +133,7 @@
       "name": "Music of the Spheres",
       "image": "https://m.media-amazon.com/images/I/71bR67Ia7YL._UF1000,1000_QL80_.jpg",
       "description": "\"Music of the Spheres\" is the ninth album by Coldplay, released in 2021.",
-      "genreID": 3,
+      "genreID": 1,
       "artistID": 7
     },
     {
@@ -141,7 +141,7 @@
       "name": "A Head Full of Dreams",
       "image": "https://bizweb.dktcdn.net/100/411/628/products/a1p7bwyavml-sl1500.jpg?v=1620998489257",
       "description": "\"A Head Full of Dreams\" is the seventh album by Coldplay, released in 2015.",
-      "genreID": 3,
+      "genreID": 1,
       "artistID": 7
     },
     {
@@ -149,7 +149,7 @@
       "name": "99%",
       "image": "https://i.scdn.co/image/ab67616d0000b273b315e8bb7ef5e57e9a25bb0f",
       "description": "The debut album from rapper MCK.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 8
     },
     {
@@ -157,7 +157,7 @@
       "name": "Đánh Đổi",
       "image": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/7/c/7/77c7630469295fb4bbb7459bdd7a0c3b.jpg",
       "description": "Obito officially released his debut album \"Đánh Đổi\" with 20 tracks.",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 9
     },
     {
@@ -165,7 +165,7 @@
       "name": "Ái",
       "image": "https://i.imgur.com/74mWGyEl.png",
       "description": "Tlinh's debut album includes the hit \"Nếu Lúc Đó\".",
-      "genreID": 2,
+      "genreID": 3,
       "artistID": 10
     },
     {
@@ -189,7 +189,7 @@
       "name": "After Hours",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png",
       "description": "\"After Hours\" is the fourth studio album by The Weeknd, released in 2020.",
-      "genreID": 1,
+      "genreID": 3,
       "artistID": 13
     },
     {
@@ -197,27 +197,35 @@
       "name": "Dawn FM",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Weeknd_-_Dawn_FM.png",
       "description": "\"Dawn FM\" is the fifth studio album by The Weeknd, released in 2022.",
-      "genreID": 1,
+      "genreID": 3,
       "artistID": 13
     },
     {
       "id": 26,
-      "name": "1989 (Taylor’s Version)",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9zlkYVgwW8HatKhebYsttR9NolXLgEyBSQ&s",
-      "description": "Taylor Swift's 2023 re-recording of her 2014 pop classic '1989'.",
-      "genreID": 1,
-      "artistID": 14
+      "name": "Symphony No. 9",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390752e5ac75c107baa260560",
+      "description": "Beethoven's Symphony No. 9 in D minor, one of the greatest works in classical music history.",
+      "genreID": 6,
+      "artistID": 23
     },
     {
       "id": 27,
-      "name": "Chromakopia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
-      "description": "Chromakopia is the eighth studio album by the American rapper Tyler, the Creator",
-      "genreID": 4,
-      "artistID": 3
+      "name": "1989 (Taylor’s Version)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9zlkYVgwW8HatKhebYsttR9NolXLgEyBSQ&s",
+      "description": "Taylor Swift's 2023 re-recording of her 2014 pop classic '1989'.",
+      "genreID": 9,
+      "artistID": 14
     },
     {
       "id": 28,
+      "name": "Chromakopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+      "description": "Chromakopia is the eighth studio album by the American rapper Tyler, the Creator",
+      "genreID": 3,
+      "artistID": 4
+    },
+    {
+      "id": 29,
       "name": "DAMN.",
       "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "description": "Kendrick Lamar's Pulitzer Prize-winning hip hop album from 2017.",
@@ -225,7 +233,7 @@
       "artistID": 16
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Breezin'",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Breezin_GB.jpg",
       "description": "George Benson’s smooth jazz masterpiece released in 1976.",
@@ -233,7 +241,7 @@
       "artistID": 17
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "Motion",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Calvin_Harris_-_Motion.png",
       "description": "Calvin Harris's 2014 EDM album featuring 'Summer' and 'Blame'.",
@@ -241,7 +249,7 @@
       "artistID": 18
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "AM",
       "image": "https://upload.wikimedia.org/wikipedia/vi/0/04/Arctic_Monkeys_-_AM.png",
       "description": "Arctic Monkeys' 2013 indie rock classic featuring 'Do I Wanna Know?'.",
@@ -249,7 +257,7 @@
       "artistID": 19
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "Legend",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg",
       "description": "Bob Marley's iconic 1984 reggae greatest hits album.",
@@ -257,7 +265,7 @@
       "artistID": 20
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "OK Computer",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
       "description": "Radiohead's groundbreaking 1997 alternative rock album.",
@@ -265,12 +273,20 @@
       "artistID": 21
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "Californication",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/RedHotChiliPeppersCalifornication.jpg/250px-RedHotChiliPeppersCalifornication.jpg",
       "description": "Red Hot Chili Peppers' legendary 1999 funk rock album.",
       "genreID": 2,
       "artistID": 22
+    },
+    {
+      "id": 36,
+      "name": "(What's the Story) Morning Glory?",
+      "image": "https://i.discogs.com/Ts3QBNzynBH3I6M0lWIR6PNbyGy1EfGZjhqR9NizEyk/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/ODczLTE0OTM2Nzkx/MDgtNjg1NC5qcGVn.jpeg",
+      "description": "Oasis' iconic 1995 Britpop album featuring Wonderwall, Don't Look Back in Anger, and Champagne Supernova.",
+      "genreID": 2,
+      "artistID": 15
     }
   ],
   "artists": [
@@ -383,7 +399,13 @@
       "id": 22,
       "name": "RED HOT CHILI PEPPERS",
       "image": "https://static.independent.co.uk/2022/03/31/10/newFile-6.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Ludwig van Beethoven",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg"
     }
+
   ],
   "genres": [
     {

@@ -1,0 +1,43 @@
+.album-info-wrapper {
+    background-color: #1a1a1a;
+    padding: 30px;
+    border-radius: 15px;
+}
+.album-cover {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+}
+
+
+.album-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.album-artist {
+    font-size: 1.1rem;
+    color: #4fc3f7;
+    text-decoration: none;
+}
+.album-artist:hover {
+    text-decoration: underline;
+}
+
+.album-genre {
+    font-size: 1.1rem;
+    color: gold;
+    text-decoration: none;
+}
+.album-genre:hover {
+    text-decoration: underline;
+}
+
+.album-description {
+    margin-top: 15px;
+    font-size: 0.95rem;
+    color: #ccc;
+}

@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import MusicCard from "./MusicCard";
-import { Link } from "react-router-dom";
+import {Link} from "react-router-dom";
 
 const MusicGrid = () => {
     const [topAlbums, setTopAlbums] = useState([]);
@@ -75,12 +75,11 @@ const MusicGrid = () => {
                         key={artist.id}
                         className="artist-card text-decoration-none"
                     >
-                        <img src={artist.image} alt={artist.name} />
+                        <img src={artist.image} alt={artist.name}/>
                         <div className="artist-name">{artist.name}</div>
                     </Link>
                 ))}
             </div>
-
 
 
             {/* Top 5 Genres */}
@@ -88,12 +87,17 @@ const MusicGrid = () => {
             <div className="row g-4 justify-content-center text-center">
                 {topGenres.map((genre, index) => (
                     <div className="col-6 col-md-4 col-lg-2" key={genre.id}>
-                        <div className={`genre-card genre-gradient-${(index % 5) + 1}`}>
+                        <a
+                            href={`/genre/${genre.id}`}
+                            className={`genre-card genre-gradient-${(index % 5) + 1} text-decoration-none d-flex align-items-center justify-content-center`}
+                            style={{color: "white"}}
+                        >
                             {genre.name}
-                        </div>
+                        </a>
                     </div>
                 ))}
             </div>
+
         </div>
     );
 };

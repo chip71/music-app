@@ -1,0 +1,43 @@
+.genre-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+    justify-items: center;
+}
+
+.genre-card {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 180px;
+}
+
+.genre-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(255, 255, 255, 0.3);
+}
+.artist-info-container {
+    text-align: center;
+}
+
+.artist-info-img {
+    border-radius: 20px;
+    max-height: 300px;
+    object-fit: cover;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease;
+}
+
+.artist-info-img:hover {
+    transform: scale(1.05);
+}
+
+.artist-info-name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f5c518; /* gold */
+}

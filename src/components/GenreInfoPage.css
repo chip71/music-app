@@ -1,0 +1,6 @@
+.genre-info-name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f5c518; /* gold */
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
