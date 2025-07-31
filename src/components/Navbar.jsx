@@ -4,7 +4,9 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#">MUSICX</a>
+                <a className="navbar-brand" href="#">
+                    <img src="/musicx-logo.svg" alt="MUSICX Logo" height="40"/>
+                </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span className="navbar-toggler-icon"/>
                 </button>

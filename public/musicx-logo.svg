@@ -1,0 +1,25 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: italic bold 36px sans-serif; fill: white; }
+  </style>
+
+  <!-- Golden vinyl disc with rings -->
+  <circle cx="40" cy="40" r="30" fill="url(#goldGradient)"></circle>
+  <circle cx="40" cy="40" r="25" fill="none" stroke="#c9a100" stroke-width="1"></circle>
+  <circle cx="40" cy="40" r="18" fill="none" stroke="#fdd835" stroke-width="1"></circle>
+  <circle cx="40" cy="40" r="10" fill="#000"></circle>
+  <circle cx="40" cy="40" r="3" fill="#fff"></circle>
+
+  <!-- Gradient definition -->
+  <defs>
+    <radialGradient id="goldGradient" cx="40" cy="40" r="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fff176"></stop>
+      <stop offset="30%" stop-color="#fbc02d"></stop>
+      <stop offset="60%" stop-color="#f57f17"></stop>
+      <stop offset="100%" stop-color="#c49000"></stop>
+    </radialGradient>
+  </defs>
+
+  <!-- Text -->
+  <text x="85" y="52" class="text">MUSICX</text>
+</svg>
