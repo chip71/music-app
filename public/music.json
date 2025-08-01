@@ -6,7 +6,8 @@
       "image": "https://pbs.twimg.com/media/GQhRdgfWsAA5bWW.jpg:large",
       "description": "Post Malone has officially announced his country album, F-1 Trillion, is out August 16th via Mercury Records/Republic. He’s also dropped the latest duet from the project, “Pour Me a Drink” featuring Blake Shelton.",
       "genreID": 9,
-      "artistID": 1
+      "artistID": 1,
+      "preview": "/audio/f1-trillion-sample.mp3"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotCgyWu3JAxs3HpPVgsFzlMsqIXe6qeol9A&s",
       "description": "\"Let It Be\" is the Beatles final studio album, released on May 8, 1970. Produced by Phil Spector, it includes iconic tracks like \"Let It Be,\" \"Get Back,\" and \"The Long and Winding Road.\"",
       "genreID": 2,
-      "artistID": 2
+      "artistID": 2,
+      "preview": "audio/let-it-be-sample.mp3"
     },
     {
       "id": 3,
