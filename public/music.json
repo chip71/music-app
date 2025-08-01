@@ -24,7 +24,8 @@
       "image": "https://images.genius.com/607348d25e00338f23acfc74fd5821e8.1000x1000x1.jpg",
       "description": "\"Igor\" is the fifth studio album of Tyler, The Creator, released on May 17, 2019. It explores themes of love and heartbreak, blending hip-hop, R&B, neo-soul, and funk.",
       "genreID": 5,
-      "artistID": 4
+      "artistID": 4,
+      "preview": "audio/igor-sample.mp3"
     },
     {
       "id": 4,
@@ -32,7 +33,8 @@
       "image": "https://media.pitchfork.com/photos/60cb72ddadc2201193add729/master/pass/Tyler-the-Creator.jpg",
       "description": "\"Call Me If You Get Lost\" is the sixth studio album of Tyler, The Creator, released on June 25, 2021. The album blends rap, jazz, and soul.",
       "genreID": 5,
-      "artistID": 4
+      "artistID": 4,
+      "preview" : "audio/cmiygl-sample.mp3"
     },
     {
       "id": 5,
@@ -40,7 +42,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Post_Malone_-_Hollywood%27s_Bleeding.png",
       "description": "\"Hollywood's Bleeding\" is Post Malone's third studio album, released on September 6, 2019. It blends hip-hop, pop, and rock.",
       "genreID": 3,
-      "artistID": 1
+      "artistID": 1,
+      "preview": "audio/hob-sample.mp3"
     },
     {
       "id": 6,
@@ -48,7 +51,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Tyler%2C_the_Creator_-_Flower_Boy.png",
       "description": "\"Flower Boy\" is the fourth studio album by Tyler, The Creator, released on July 21, 2017.",
       "genreID": 3,
-      "artistID": 4
+      "artistID": 4,
+      "preview": "audio/sya-sample.mp3"
     },
     {
       "id": 7,
@@ -56,7 +60,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
       "description": "\"Thriller\" is the sixth studio album by Michael Jackson, released on November 30, 1982. It became the best-selling album of all time.",
       "genreID": 1,
-      "artistID": 3
+      "artistID": 3,
+      "preview": "audio/thriller-sample.mp3"
     },
     {
       "id": 8,
@@ -64,7 +69,8 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733ab401869655adcf234c0912",
       "description": "Ngbthg is Ngot's second studio product, first released in September 2017.",
       "genreID": 8,
-      "artistID": 5
+      "artistID": 5,
+      "preview": "audio/ngbth.mp3"
     },
     {
       "id": 9,
@@ -72,7 +78,8 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273331cabd7863a2d675633bca4",
       "description": "The third album by Ngot, released in 2019, featuring fresh and dynamic tracks.",
       "genreID": 8,
-      "artistID": 5
+      "artistID": 5,
+      "preview" : "audio/ngot3.mp3"
     },
     {
       "id": 10,
@@ -80,7 +87,8 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730771b564830e3dedb2d31358",
       "description": "\"Gieo\" is an album by Vietnamese indie band Ngot.",
       "genreID": 8,
-      "artistID": 5
+      "artistID": 5,
+      "preview": "audio/gieo.mp3"
     },
     {
       "id": 11,
@@ -88,7 +96,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/1/11/Michaeljacksondangerous.jpg",
       "description": "\"Dangerous\" is the eighth studio album by Michael Jackson, released in 1991.",
       "genreID": 1,
-      "artistID": 3
+      "artistID": 3,
+      "preview": "audio/dangerous.mp3"
     },
     {
       "id": 12,
@@ -96,7 +105,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/MichaelBuble-Christmas%282011%29-Cover.png",
       "description": "\"Christmas\" is a holiday album by Michael Bublé, released in 2011.",
       "genreID": 4,
-      "artistID": 6
+      "artistID": 6,
+      "preview" : "audio/christmas.mp3"
     },
     {
       "id": 13,
@@ -104,7 +114,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/7/70/MichaelBubleLove.png",
       "description": "\"Love\" is an album by Michael Bublé, released in 2018.",
       "genreID": 4,
-      "artistID": 6
+      "artistID": 6,
+      "preview": "audio/love.mp3"
     },
     {
       "id": 14,
@@ -112,7 +123,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Post_Malone_-_Austin.png",
       "description": "Post Malone's album \"Austin\" showcases his guitar skills prominently.",
       "genreID": 3,
-      "artistID": 1
+      "artistID": 1,
+      "preview" : "audio/austin.mp3"
     },
     {
       "id": 15,
@@ -120,7 +132,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Post_Malone_-_Twelve_Carat_Toothache.png",
       "description": "Twelve Carat Toothache is the fourth studio album by Post Malone, released in 2022.",
       "genreID": 3,
-      "artistID": 1
+      "artistID": 1,
+      "preview": "audio/tct.mp3"
     },
     {
       "id": 16,
@@ -128,7 +141,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/8/86/Coldplay_Parachutes.jpg",
       "description": "Parachutes is the debut album by Coldplay, released in 2000.",
       "genreID": 1,
-      "artistID": 7
+      "artistID": 7,
+      "preview": "audio/parachutes.mp3"
     },
     {
       "id": 17,
@@ -136,7 +150,8 @@
       "image": "https://m.media-amazon.com/images/I/71bR67Ia7YL._UF1000,1000_QL80_.jpg",
       "description": "\"Music of the Spheres\" is the ninth album by Coldplay, released in 2021.",
       "genreID": 1,
-      "artistID": 7
+      "artistID": 7,
+      "preview": "audio/mos.mp3"
     },
     {
       "id": 18,
@@ -144,7 +159,8 @@
       "image": "https://bizweb.dktcdn.net/100/411/628/products/a1p7bwyavml-sl1500.jpg?v=1620998489257",
       "description": "\"A Head Full of Dreams\" is the seventh album by Coldplay, released in 2015.",
       "genreID": 1,
-      "artistID": 7
+      "artistID": 7,
+      "preview": "audio/ahfod.mp3"
     },
     {
       "id": 19,
@@ -152,7 +168,8 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b315e8bb7ef5e57e9a25bb0f",
       "description": "The debut album from rapper MCK.",
       "genreID": 3,
-      "artistID": 8
+      "artistID": 8,
+      "preview": "audio/99.mp3"
     },
     {
       "id": 20,
