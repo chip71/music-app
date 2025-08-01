@@ -1,33 +1,39 @@
-.artist-info-container {
+.artist-header {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Always center horizontally */
+    transition: all 0.4s ease;
+    flex-wrap: wrap;
+    gap: 20px;
     text-align: center;
-    padding: 40px 20px;
 }
 
-.artist-info-container img {
+.artist-header.show-details {
+    justify-content: center; /* Keep everything centered */
+    text-align: left; /* Only description aligns left internally */
+}
+
+.artist-info-img {
     border-radius: 20px;
     max-height: 300px;
     object-fit: cover;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
-    transition: transform 0.3s ease;
+    transition: transform 0.4s ease;
+    cursor: pointer;
 }
 
-.artist-info-container img:hover {
+.artist-info-img:hover {
     transform: scale(1.05);
 }
 
-.artist-info-name {
-    margin-top: 20px;
-    font-size: 2rem;
-    font-weight: bold;
-    color: #f5c518; /* gold accent */
+.artist-details {
+    max-width: 500px;
+    opacity: 0;
+    transform: translateY(15px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
 }
 
-.artist-albums-section {
-    margin-top: 50px;
-}
-
-.artist-albums-section h4 {
-    font-size: 1.5rem;
-    color: #00b4d8; /* blue accent */
-    margin-bottom: 20px;
+.artist-header.show-details .artist-details {
+    opacity: 1;
+    transform: translateY(0);
 }

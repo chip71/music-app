@@ -7,7 +7,9 @@
       "description": "Post Malone has officially announced his country album, F-1 Trillion, is out August 16th via Mercury Records/Republic. He’s also dropped the latest duet from the project, “Pour Me a Drink” featuring Blake Shelton.",
       "genreID": 9,
       "artistID": 1,
-      "preview": "/audio/f1-trillion-sample.mp3"
+      "preview": "/audio/f1-trillion-sample.mp3",
+      "spotify": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_l5tpwF97htGeATjOMZl6XoMYJdSXGjbBI"
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "description": "\"Let It Be\" is the Beatles final studio album, released on May 8, 1970. Produced by Phil Spector, it includes iconic tracks like \"Let It Be,\" \"Get Back,\" and \"The Long and Winding Road.\"",
       "genreID": 2,
       "artistID": 2,
-      "preview": "audio/let-it-be-sample.mp3"
+      "preview": "/audio/let-it-be-sample.mp3",
+      "spotify": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5",
+      "youtube":"https://www.youtube.com/watch?v=dwtaADfz2WU&list=OLAK5uy_nKumaWFv9ZtpUwQ8XAl85VkmJY_G06ryI"
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "description": "\"Igor\" is the fifth studio album of Tyler, The Creator, released on May 17, 2019. It explores themes of love and heartbreak, blending hip-hop, R&B, neo-soul, and funk.",
       "genreID": 5,
       "artistID": 4,
-      "preview": "audio/igor-sample.mp3"
+      "preview": "/audio/igor-sample.mp3",
+      "spotify": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_mao9YHfZtBBTlxeT138lO0prcGHzNSWQM"
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "description": "\"Call Me If You Get Lost\" is the sixth studio album of Tyler, The Creator, released on June 25, 2021. The album blends rap, jazz, and soul.",
       "genreID": 5,
       "artistID": 4,
-      "preview" : "audio/cmiygl-sample.mp3"
+      "preview" : "/audio/cmiygl-sample.mp3",
+      "spotify": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_k4n6ZtIK5tVGcq1aexNjVN8CMP1MbM8ew"
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "description": "\"Hollywood's Bleeding\" is Post Malone's third studio album, released on September 6, 2019. It blends hip-hop, pop, and rock.",
       "genreID": 3,
       "artistID": 1,
-      "preview": "audio/hob-sample.mp3"
+      "preview": "/audio/hob-sample.mp3",
+      "spotify": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_mX9d9zsFckvzZEXQtDpdjnMdeZJrV9Wnc"
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "description": "\"Flower Boy\" is the fourth studio album by Tyler, The Creator, released on July 21, 2017.",
       "genreID": 3,
       "artistID": 4,
-      "preview": "audio/sya-sample.mp3"
+      "preview": "/audio/sya-sample.mp3",
+      "spotify": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_kKOFOy7csvAV07ipX0MYHZLIccf3TBcRw"
     },
     {
       "id": 7,
@@ -61,7 +73,9 @@
       "description": "\"Thriller\" is the sixth studio album by Michael Jackson, released on November 30, 1982. It became the best-selling album of all time.",
       "genreID": 1,
       "artistID": 3,
-      "preview": "audio/thriller-sample.mp3"
+      "preview": "/audio/thriller-sample.mp3",
+      "spotify": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+      "youtube":"https://www.youtube.com/watch?v=8KWf_-ofYgI&list=PLFAcddgaFN8zqIJrTakvM9qWnR7iIrXnj"
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "description": "Ngbthg is Ngot's second studio product, first released in September 2017.",
       "genreID": 8,
       "artistID": 5,
-      "preview": "audio/ngbth.mp3"
+      "preview": "/audio/ngbth.mp3",
+      "spotify": "https://open.spotify.com/album/4BwnV3YdCtxn8ydFVrstbI",
+      "youtube":"https://www.youtube.com/watch?v=9ZKA9xaMLac&list=PLnUioGkqqn5WondtHx2fvLtTlLNuoUeUq"
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "description": "The third album by Ngot, released in 2019, featuring fresh and dynamic tracks.",
       "genreID": 8,
       "artistID": 5,
-      "preview" : "audio/ngot3.mp3"
+      "preview" : "/audio/ngot3.mp3",
+      "spotify": "https://open.spotify.com/album/2dZsaSnVn5i5uBg6FnhUVV",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_nbfq3ppitKyhnogmScAos29rpolcLNEXE"
     },
     {
       "id": 10,
@@ -88,7 +106,9 @@
       "description": "\"Gieo\" is an album by Vietnamese indie band Ngot.",
       "genreID": 8,
       "artistID": 5,
-      "preview": "audio/gieo.mp3"
+      "preview": "/audio/gieo.mp3",
+      "spotify": "https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_mX4S3lHIiNi-ufnhbN--YSDVjYCneKW7A"
     },
     {
       "id": 11,
@@ -97,7 +117,9 @@
       "description": "\"Dangerous\" is the eighth studio album by Michael Jackson, released in 1991.",
       "genreID": 1,
       "artistID": 3,
-      "preview": "audio/dangerous.mp3"
+      "preview": "/audio/dangerous.mp3",
+      "spotify": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_m9zXENU37EA1SQOBMJVncMstQXSntpAXg"
     },
     {
       "id": 12,
@@ -106,7 +128,9 @@
       "description": "\"Christmas\" is a holiday album by Michael Bublé, released in 2011.",
       "genreID": 4,
       "artistID": 6,
-      "preview" : "audio/christmas.mp3"
+      "preview" : "/audio/christmas.mp3",
+      "spotify": "https://open.spotify.com/album/1HyiKmciQGJJbcriu4mY71",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_mgcf0YGpVc8pAZPqrhngFoMC8GMLzM8pI"
     },
     {
       "id": 13,
@@ -115,7 +139,9 @@
       "description": "\"Love\" is an album by Michael Bublé, released in 2018.",
       "genreID": 4,
       "artistID": 6,
-      "preview": "audio/love.mp3"
+      "preview": "/audio/love.mp3",
+      "spotify": "https://open.spotify.com/track/4m4aQLiPbWFyE07xRoJPhc",
+      "youtube":"https://www.youtube.com/playlist?list=OLAK5uy_nMIJ5zYWqX2nVy8pxzeKuA55cYW4sjI3Y"
     },
     {
       "id": 14,
@@ -124,7 +150,9 @@
       "description": "Post Malone's album \"Austin\" showcases his guitar skills prominently.",
       "genreID": 3,
       "artistID": 1,
-      "preview" : "audio/austin.mp3"
+      "preview" : "/audio/austin.mp3",
+      "spotify": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy",
+      "youtube":"https://www.youtube.com/watch?v=uTvOW74JUjE&list=OLAK5uy_lgc_b5ThPGAjkhAFscaOAjKvBULnWjD9Y"
     },
     {
       "id": 15,
@@ -133,7 +161,9 @@
       "description": "Twelve Carat Toothache is the fourth studio album by Post Malone, released in 2022.",
       "genreID": 3,
       "artistID": 1,
-      "preview": "audio/tct.mp3"
+      "preview": "/audio/tct.mp3",
+      "spotify": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx",
+      "youtube":"https://www.youtube.com/watch?v=WVWxPIzEM3A&list=OLAK5uy_nbwsuAyhYaQzrh0l6zp3orMnW5Ct_nYmc&rco=1"
     },
     {
       "id": 16,
@@ -142,7 +172,9 @@
       "description": "Parachutes is the debut album by Coldplay, released in 2000.",
       "genreID": 1,
       "artistID": 7,
-      "preview": "audio/parachutes.mp3"
+      "preview": "/audio/parachutes.mp3",
+      "spotify": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra",
+      "youtube":"https://www.youtube.com/watch?v=yWeuUwpEQfs&list=OLAK5uy_m4lOn8HJoLfTETxg2d6QouxcQd3nM4Gf0"
     },
     {
       "id": 17,
@@ -151,7 +183,9 @@
       "description": "\"Music of the Spheres\" is the ninth album by Coldplay, released in 2021.",
       "genreID": 1,
       "artistID": 7,
-      "preview": "audio/mos.mp3"
+      "preview": "/audio/mos.mp3",
+      "spotify": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb",
+      "youtube":"https://www.youtube.com/watch?v=l6_nRqIz_9o&list=PLsvoYlzBrLFANzvFcwzeMGQhemT6X1Pvg"
     },
     {
       "id": 18,
@@ -160,7 +194,9 @@
       "description": "\"A Head Full of Dreams\" is the seventh album by Coldplay, released in 2015.",
       "genreID": 1,
       "artistID": 7,
-      "preview": "audio/ahfod.mp3"
+      "preview": "/audio/ahfod.mp3",
+      "spotify": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw",
+      "youtube":"https://www.youtube.com/watch?v=QtXby3twMmI&list=PLsvoYlzBrLFAgsqoo_ap0JWZvhrF9LcW2"
     },
     {
       "id": 19,
@@ -169,7 +205,9 @@
       "description": "The debut album from rapper MCK.",
       "genreID": 3,
       "artistID": 8,
-      "preview": "audio/99.mp3"
+      "preview": "/audio/99.mp3",
+      "spotify": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu",
+      "youtube":"https://www.youtube.com/watch?v=sYSvC8tOgKE&list=PLSaac19x1K73ilf4uHaad6-9sf3hjfcI8"
     },
     {
       "id": 20,
@@ -177,7 +215,10 @@
       "image": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/7/c/7/77c7630469295fb4bbb7459bdd7a0c3b.jpg",
       "description": "Obito officially released his debut album \"Đánh Đổi\" with 20 tracks.",
       "genreID": 3,
-      "artistID": 9
+      "artistID": 9,
+      "preview" : "/audio/danhdoi.mp3",
+      "spotify": "https://open.spotify.com/album/03ZYR4zwCrkSsXTROnK2d0",
+      "youtube":"https://www.youtube.com/watch?v=Ui5Y6rUgm0A&list=OLAK5uy_kQwS71RmH39mi8oV3hHCQpmhk-p556V_4"
     },
     {
       "id": 21,
@@ -185,7 +226,10 @@
       "image": "https://i.imgur.com/74mWGyEl.png",
       "description": "Tlinh's debut album includes the hit \"Nếu Lúc Đó\".",
       "genreID": 3,
-      "artistID": 10
+      "artistID": 10,
+      "preview": "/audio/ai.mp3",
+      "spotify": "https://open.spotify.com/album/5zyztYlsHoAeQKCsu8rVbo",
+      "youtube":"https://www.youtube.com/watch?v=82ZTNQNEQgE&t=1474s"
     },
     {
       "id": 22,
@@ -193,7 +237,10 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02df14c8985675c7610e5c3938",
       "description": "Shiki released the debut EP \"Lặng\" showcasing his versatility.",
       "genreID": 1,
-      "artistID": 11
+      "artistID": 11,
+      "preview" : "/audio/lang.mp3",
+      "spotify": "https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN",
+      "youtube":"https://www.youtube.com/watch?v=KHqTWHC2qsA&t=149s"
     },
     {
       "id": 23,
@@ -201,7 +248,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/2/27/Wren_Evans_-_Loi_Choi.jpg",
       "description": "Wren Evans' debut album with 11 songs, including the hit \"Từng quen\".",
       "genreID": 1,
-      "artistID": 12
+      "artistID": 12,
+      "preview": "/audio/loichoi.mp3",
+      "spotify": "https://open.spotify.com/album/1c4nTHI2hreFeF5P37wf4f",
+      "youtube":"https://www.youtube.com/watch?v=A8C71-mSkAk&t=23s"
     },
     {
       "id": 24,
@@ -209,7 +259,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png",
       "description": "\"After Hours\" is the fourth studio album by The Weeknd, released in 2020.",
       "genreID": 3,
-      "artistID": 13
+      "artistID": 13,
+      "preview": "/audio/afterhour.mp3",
+      "spotify": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+      "youtube":"https://www.youtube.com/watch?v=JH398xAYpZA&list=OLAK5uy_lwaD8UXRautA8W9eWT4zZOvwf5Ktxpax8"
     },
     {
       "id": 25,
@@ -217,7 +270,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Weeknd_-_Dawn_FM.png",
       "description": "\"Dawn FM\" is the fifth studio album by The Weeknd, released in 2022.",
       "genreID": 3,
-      "artistID": 13
+      "artistID": 13,
+      "preview": "/audio/dawnfm.mp3",
+      "spotify": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC",
+      "youtube":"https://www.youtube.com/watch?v=w8eFZoOcYKc&list=OLAK5uy_nx1QFwTfdCN-spJ5BpaBsiNR8yxDxmZqk"
     },
     {
       "id": 26,
@@ -225,7 +281,10 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27390752e5ac75c107baa260560",
       "description": "Beethoven's Symphony No. 9 in D minor, one of the greatest works in classical music history.",
       "genreID": 6,
-      "artistID": 23
+      "artistID": 23,
+      "preview": "/audio/sym.mp3",
+      "spotify": "https://open.spotify.com/album/3PFXzb8ySwZMDjyD25c6Bt",
+      "youtube":"https://www.youtube.com/watch?v=t3217H8JppI"
     },
     {
       "id": 27,
@@ -233,7 +292,10 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9zlkYVgwW8HatKhebYsttR9NolXLgEyBSQ&s",
       "description": "Taylor Swift's 2023 re-recording of her 2014 pop classic '1989'.",
       "genreID": 9,
-      "artistID": 14
+      "artistID": 14,
+      "preview": "/audio/1989.mp3",
+      "spotify": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0",
+      "youtube":"https://www.youtube.com/watch?v=RfjPHmgBPF0&list=PLc70MCJNmlIlTCG7GrWwltBI8DIAS5U_r"
     },
     {
       "id": 28,
@@ -241,7 +303,10 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
       "description": "Chromakopia is the eighth studio album by the American rapper Tyler, the Creator",
       "genreID": 3,
-      "artistID": 4
+      "artistID": 4,
+      "preview": "/audio/chrom.mp3",
+      "spotify": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
+      "youtube":"https://www.youtube.com/watch?v=hCcwCv3G1FQ&list=OLAK5uy_nt1Nw4wT6I7VlzNknxTiIz3hfED0ttO8Q"
     },
     {
       "id": 29,
@@ -249,7 +314,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "description": "Kendrick Lamar's Pulitzer Prize-winning hip hop album from 2017.",
       "genreID": 3,
-      "artistID": 16
+      "artistID": 16,
+      "preview":"/audio/damn.mp3",
+      "spotify": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
+      "youtube":"https://www.youtube.com/watch?v=pltUZzEFLR0&list=PLrbUxSl4nExNkwtsO8J-1PsN86RxvrPrT"
     },
     {
       "id": 30,
@@ -257,7 +325,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Breezin_GB.jpg",
       "description": "George Benson’s smooth jazz masterpiece released in 1976.",
       "genreID": 4,
-      "artistID": 17
+      "artistID": 17,
+      "preview": "/audio/breezin.mp3",
+      "spotify": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY",
+      "youtube":"https://www.youtube.com/watch?v=j9W0g3NGSj4&list=OLAK5uy_nco2trv7lSMpGKgIDfaTQMBYWSRLk04ZY"
     },
     {
       "id": 31,
@@ -265,7 +336,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Calvin_Harris_-_Motion.png",
       "description": "Calvin Harris's 2014 EDM album featuring 'Summer' and 'Blame'.",
       "genreID": 7,
-      "artistID": 18
+      "artistID": 18,
+      "preview": "/audio/motion.mp3",
+      "spotify": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS",
+      "youtube":"https://www.youtube.com/watch?v=0zYcAMAVCmU&list=PLKDRMeFOOHVgeLSR4Jleo2pPwaY7AnrJS"
     },
     {
       "id": 32,
@@ -273,7 +347,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/0/04/Arctic_Monkeys_-_AM.png",
       "description": "Arctic Monkeys' 2013 indie rock classic featuring 'Do I Wanna Know?'.",
       "genreID": 8,
-      "artistID": 19
+      "artistID": 19,
+      "preview": "/audio/am.mp3",
+      "spotify": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+      "youtube": "https://www.youtube.com/watch?v=9xE0x05Xuuk&list=PLOkPWZS9Q7ECOreiaeGJZ_dA8KlCtsvHN"
     },
     {
       "id": 33,
@@ -281,7 +358,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg",
       "description": "Bob Marley's iconic 1984 reggae greatest hits album.",
       "genreID": 10,
-      "artistID": 20
+      "artistID": 20,
+      "preview": "/audio/legend.mp3",
+      "spotify": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn",
+      "youtube": "https://www.youtube.com/watch?v=wsu_8UwapEI&list=PLvmbTyRt9mcQ4VQsip79hb289PWlozTPf"
     },
     {
       "id": 34,
@@ -289,7 +369,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
       "description": "Radiohead's groundbreaking 1997 alternative rock album.",
       "genreID": 8,
-      "artistID": 21
+      "artistID": 21,
+      "preview": "/audio/ok.mp3",
+      "spotify": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+      "youtube": "https://www.youtube.com/watch?v=jNY_wLukVW0&list=PLxzSZG7g8c8x6GYz_FcNr-3zPQ7npP6WF"
     },
     {
       "id": 35,
@@ -297,7 +380,10 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/RedHotChiliPeppersCalifornication.jpg/250px-RedHotChiliPeppersCalifornication.jpg",
       "description": "Red Hot Chili Peppers' legendary 1999 funk rock album.",
       "genreID": 2,
-      "artistID": 22
+      "artistID": 22,
+      "preview": "/audio/califo.mp3",
+      "spotify": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD",
+      "youtube": "https://www.youtube.com/watch?v=YlUKcNNmywk"
     },
     {
       "id": 36,
@@ -305,124 +391,294 @@
       "image": "https://i.discogs.com/Ts3QBNzynBH3I6M0lWIR6PNbyGy1EfGZjhqR9NizEyk/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/ODczLTE0OTM2Nzkx/MDgtNjg1NC5qcGVn.jpeg",
       "description": "Oasis' iconic 1995 Britpop album featuring Wonderwall, Don't Look Back in Anger, and Champagne Supernova.",
       "genreID": 2,
-      "artistID": 15
+      "artistID": 15,
+      "preview": "/audio/what.mp3",
+      "spotify": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk",
+      "youtube": "https://www.youtube.com/watch?v=mgcRuUVuGTE&list=PLBeeiCx5Kc2s-YVUNJpT19qiNo7UdKaWS"
+    },
+    {
+      "id": 37,
+      "name": "The Bends",
+      "image": "https://m.media-amazon.com/images/I/71VJAU9IPSL.jpg",
+      "description": "The Bends is the second studio album by the English rock band Radiohead, released on 13 March 1995",
+      "genreID": 8,
+      "artistID": 21,
+      "preview": "/audio/thebends.mp3",
+      "spotify": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+      "youtube": "https://www.youtube.com/watch?v=g0az4OkM02Y&list=OLAK5uy_mcdDsRfBo6p9yWwUCOLxjSMVV9sd2LjtU"
+    },
+    {
+      "id": 38,
+      "name": "Pablo Honey",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Radiohead.pablohoney.albumart.jpg",
+      "description": "Pablo Honey is the debut studio album by the English rock band Radiohead, released on 22 February 1993 in the UK",
+      "genreID": 8,
+      "artistID": 21,
+      "preview": "/audio/honey.mp3",
+      "spotify": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8",
+      "youtube": "https://www.youtube.com/watch?v=OzL7u5teZhg&list=OLAK5uy_kogOCcCSJj35BNnHBOHHq4ueqasxkFP8g"
+    },
+    {
+      "id": 39,
+      "name": "GNX",
+      "image": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/1900x1900-000000-80-0-0.jpg",
+      "description": "GNX is the sixth studio album by American rapper Kendrick Lamar. It was surprise released on November 22, 2024, through PGLang and Interscope Records. The album features guest appearances from SZA, Dody6, Lefty Gunplay, Wallie the Sensei, Siete7x, Roddy Ricch, AzChike, Hitta J3, YoungThreat, and Peysoh. Lamar produced the album primarily with Sounwave and Jack Antonoff; other producers include Mustard, Sean Momberger, and Kamasi Washington.",
+      "genreID": 3,
+      "artistID": 16,
+      "preview": "/audio/gnx.mp3",
+      "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_nr2Gbry1tH6kks2gabRq1k3sjR0ByDnKg"
+    },
+    {
+      "id": 40,
+      "name": "Don't Tap the Glass",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Tyler%2C_the_Creator_-_Don%27t_Tap_the_Glass.png",
+      "description": "Don't Tap the Glass (stylized in all caps) is the ninth studio album by American rapper and producer Tyler, the Creator. It was released through Columbia Records on July 21, 2025. The album includes guest appearances from American singer-songwriters Pharrell Williams (under both his name and his alter ego, Sk8brd), Madison McFerrin, and Yebba. Serving as the follow-up to his previous album, Chromakopia (2024), Tyler solely produced all ten tracks on it.",
+      "genreID": 3,
+      "artistID": 4,
+      "preview": "/audio/dttg.mp3",
+      "spotify": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R",
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_mip0ac7q4MTI7HeDbYSG8ew0JMT7TsGlY"
+    },
+    {
+      "id": 41,
+      "name": "By The Way",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-tFuY3nj0t-ZWaOAIz9_7nuIRMknH59luQ&s",
+      "description": "By the Way is the eighth studio album by the American rock band Red Hot Chili Peppers, released July 9, 2002, on Warner Bros. Records. It sold more than 286,000 copies in its first week, and peaked at number two on the Billboard 200.",
+      "genreID": 2,
+      "artistID": 22,
+      "preview": "/audio/btw.mp3",
+      "spotify": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1",
+      "youtube": "https://www.youtube.com/watch?v=JnfyjwChuNU&list=OLAK5uy_mIzb8byci429atL6GqqYKvYw-GVHPR5jo"
     }
   ],
   "artists": [
     {
       "id": 1,
       "name": "POST MALONE",
-      "image": "https://www.fr.de/assets/images/32/349/32349672-post-malone-2Eec.jpg"
+      "image": "https://www.fr.de/assets/images/32/349/32349672-post-malone-2Eec.jpg",
+      "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60",
+      "youtube": "https://www.youtube.com/@postmalone",
+      "description": "Post Malone is an American rapper, singer, and songwriter blending hip hop, pop, and rock influences."
     },
     {
       "id": 2,
       "name": "THE BEATLES",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4cjI5tt9T5uJ1JGv8GQVOge2EGFNKD7OKA&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4cjI5tt9T5uJ1JGv8GQVOge2EGFNKD7OKA&s",
+      "description": "The Beatles are an English rock band that revolutionized popular music with their innovative songwriting, iconic albums, and cultural impact.",
+      "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+      "youtube": "https://www.youtube.com/@TheBeatles"
+
+
     },
     {
       "id": 3,
       "name": "MICHAEL JACKSON",
-      "image": "https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/5ba940ced14fecf35556ceff239bd88a/thumb/am-nhac-michael-jackson-van-nguyen-su-anh-huong-voi-dai-chung-michael-jackson-thumb43.jpg"
+      "image": "https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/5ba940ced14fecf35556ceff239bd88a/thumb/am-nhac-michael-jackson-van-nguyen-su-anh-huong-voi-dai-chung-michael-jackson-thumb43.jpg",
+      "description": "Michael Jackson, the King of Pop, is known for his groundbreaking music, legendary performances, and influence on pop culture worldwide.",
+      "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
+      "youtube": "https://www.youtube.com/@MichaelJackson"
+
+
     },
     {
       "id": 4,
       "name": "TYLER THE CREATOR",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/b1ace64/2147483647/strip/true/crop/1867x2800+1202+0/resize/2000x3000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2Fbc%2Fe9a9a7f848bea1d3fd6bf5cf00bc%2Fgettyimages-1236582923.jpg"
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b1ace64/2147483647/strip/true/crop/1867x2800+1202+0/resize/2000x3000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2Fbc%2Fe9a9a7f848bea1d3fd6bf5cf00bc%2Fgettyimages-1236582923.jpg",
+      "description": "Tyler, The Creator is an American rapper, producer, and creative visionary known for his genre-bending music and bold artistic style.",
+      "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF",
+      "youtube": "https://www.youtube.com/@TylerTheCreator"
+
+
     },
     {
       "id": 5,
-      "name": "NGOT",
-      "image": "https://media.viez.vn/prod/2024/3/20/image_d6a4e4dfb0.png"
+      "name": "NGỌT",
+      "image": "https://media.viez.vn/prod/2024/3/20/image_d6a4e4dfb0.png",
+      "description": "Ngọt is a Vietnamese indie pop band recognized for their clever lyrics, catchy melodies, and unique modern sound.",
+      "spotify": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI",
+      "youtube": "https://www.youtube.com/c/Ng%E1%BB%8Dtband"
+
+
     },
     {
       "id": 6,
-      "name": "MICHAEL BUBLE",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/2c14ccd/2147483647/strip/true/crop/4051x5401+0+0/resize/2000x2667!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fc7%2F20bfa4844045b34990195f22fea8%2F928379-et-michael-buble-03-mjc.jpg"
+      "name": "MICHAEL BUBLÉ",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/2c14ccd/2147483647/strip/true/crop/4051x5401+0+0/resize/2000x2667!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fc7%2F20bfa4844045b34990195f22fea8%2F928379-et-michael-buble-03-mjc.jpg",
+      "description": "Michael Bublé is a Canadian singer celebrated for his smooth voice and classic interpretations of jazz standards and pop hits.",
+      "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3",
+      "youtube": "https://www.youtube.com/@michaelbuble "
+
+
     },
     {
       "id": 7,
       "name": "COLDPLAY",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb",
+      "description": "Coldplay is a British rock band famous for their anthemic sound, emotional lyrics, and global chart-topping albums.",
+      "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+      "youtube": "https://www.youtube.com/@coldplay"
+
+
     },
     {
       "id": 8,
       "name": "MCK",
-      "image": "https://yt3.googleusercontent.com/l5vxhDuExYW5firIfZt7VPNANUQ4wFQ4T7RL6DDoSW6Uao5aEdy-XvJu6xhJ_qeIR743Y_zm=s900-c-k-c0x00ffffff-no-rj"
+      "image": "https://yt3.googleusercontent.com/l5vxhDuExYW5firIfZt7VPNANUQ4wFQ4T7RL6DDoSW6Uao5aEdy-XvJu6xhJ_qeIR743Y_zm=s900-c-k-c0x00ffffff-no-rj",
+      "description": "MCK is a Vietnamese rapper, singer, and songwriter blending hip hop, R&B, and contemporary pop influences.",
+      "spotify": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL",
+      "youtube": "https://www.youtube.com/@hoanglongmck"
+
+
     },
     {
       "id": 9,
       "name": "OBITO",
-      "image": "https://golives3.s3.amazonaws.com/2022/11/20633_51ac707557f57df2cecede3ef03baf79.jpg"
+      "image": "https://golives3.s3.amazonaws.com/2022/11/20633_51ac707557f57df2cecede3ef03baf79.jpg",
+      "description": "Obito is a Vietnamese rapper and music producer known for his creative beats and modern rap style.",
+      "spotify": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp",
+      "youtube": "https://www.youtube.com/@TobieeOfficial"
+
+
     },
     {
       "id": 10,
       "name": "TLINH",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb230e62752ca87da1d85d0445"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb230e62752ca87da1d85d0445",
+      "description": "Tlinh is a Vietnamese singer and rapper recognized for her bold lyrics, catchy hooks, and confident style.",
+      "spotify": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR",
+      "youtube": "https://www.youtube.com/@tlinhofficial"
+
+
     },
     {
       "id": 11,
       "name": "SHIKI",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb71581ba96c0dfa03f23beeb9"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb71581ba96c0dfa03f23beeb9",
+      "description": "Shiki is a producer, songwriter known for his unique sound and modern approach to pop music.",
+      "spotify": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq",
+      "youtube": "https://www.youtube.com/@shikidaspirit01"
+
+
     },
     {
       "id": 12,
       "name": "WREN EVANS",
-      "image": "https://images2.thanhnien.vn/528068263637045248/2025/5/12/wren-evans-1747030120905553092874.jpg"
+      "image": "https://images2.thanhnien.vn/528068263637045248/2025/5/12/wren-evans-1747030120905553092874.jpg",
+      "description": "Wren Evans is a Vietnamese singer-songwriter blending R&B, pop, and experimental sounds with creative storytelling.",
+      "spotify": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu",
+      "youtube": "https://www.youtube.com/@wrenevansoffficial"
+
+
     },
     {
       "id": 13,
       "name": "THE WEEKND",
-      "image": "https://media.vov.vn/sites/default/files/styles/large/public/2021-03/the-weeknd-album-cover-clean-1.jpg"
+      "image": "https://media.vov.vn/sites/default/files/styles/large/public/2021-03/the-weeknd-album-cover-clean-1.jpg",
+      "description": "The Weeknd is a Canadian singer and producer known for his atmospheric R&B, pop hits, and global success.",
+      "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+      "youtube": "https://www.youtube.com/@TheWeeknd"
+
+
     },
     {
       "id": 14,
       "name": "TAYLOR SWIFT",
-      "image": "https://phunuso.mediacdn.vn/603486343963435008/2025/5/29/taylor-swift-the-eras-tour-london-uk-1748478212499-17484782128681879652871.jpg"
+      "image": "https://phunuso.mediacdn.vn/603486343963435008/2025/5/29/taylor-swift-the-eras-tour-london-uk-1748478212499-17484782128681879652871.jpg",
+      "description": "Taylor Swift is an American singer-songwriter renowned for her storytelling, genre versatility, and record-breaking albums.",
+      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "youtube": "https://www.youtube.com/@TaylorSwift"
+
+
     },
     {
       "id": 15,
       "name": "OASIS",
-      "image": "https://i.scdn.co/image/ab67616100005174b4ddbc39706ef0f2ae0f7c9b"
+      "image": "https://i.scdn.co/image/ab67616100005174b4ddbc39706ef0f2ae0f7c9b",
+      "description": "Oasis is a British rock band known for their Britpop anthems, powerful songwriting, and cultural influence.",
+      "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
+      "youtube": "https://www.youtube.com/channel/UCUDVBtnOQi4c7E8jebpjc9Q"
+
+
     },
     {
       "id": 16,
       "name": "KENDRICK LAMAR",
-      "image": "https://variety.com/wp-content/uploads/2017/11/kendrick-lamar-variety-hitmakers.jpg"
+      "image": "https://variety.com/wp-content/uploads/2017/11/kendrick-lamar-variety-hitmakers.jpg",
+      "description": "Kendrick Lamar is an American rapper and songwriter praised for his lyrical depth, storytelling, and influence on hip hop.",
+      "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+      "youtube": "https://www.youtube.com/@kendricklamar"
+
+
     },
     {
       "id": 17,
       "name": "GEORGE BENSON",
-      "image": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/201603030019/1140x_a10-7_cTC/20160122ng-Jazz2-1_1750060680.jpg"
+      "image": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/201603030019/1140x_a10-7_cTC/20160122ng-Jazz2-1_1750060680.jpg",
+      "description": "George Benson is an American guitarist and singer blending jazz, R&B, and pop with smooth, soulful performances.",
+      "spotify": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv",
+      "youtube": "https://www.youtube.com/channel/UChrbSeE9HULE3VBPAMr2dtw"
+
+
     },
     {
       "id": 18,
       "name": "CALVIN HARRIS",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb1e4bcd2bef1896648762dd6b"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1e4bcd2bef1896648762dd6b",
+      "description": "Calvin Harris is a Scottish DJ and producer famous for his chart-topping electronic dance music and global collaborations.",
+      "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY",
+      "youtube": "https://www.youtube.com/@CalvinHarris"
+
+
     },
     {
       "id": 19,
       "name": "ARCTIC MONKEYS",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+      "description": "Arctic Monkeys are a British rock band known for their clever lyrics, distinctive sound, and acclaimed albums.",
+      "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
+      "youtube": "https://www.youtube.com/channel/UC-KTRBl9_6AX10-Y7IKwKdw"
+
+
     },
     {
       "id": 20,
       "name": "BOB MARLEY",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg",
+      "description": "Bob Marley was a Jamaican singer-songwriter who popularized reggae music and spread messages of peace and unity.",
+      "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
+      "youtube": "https://www.youtube.com/channel/UCAlTDckOOQ2jREOvuCShGbw"
+
+
     },
     {
       "id": 21,
       "name": "RADIOHEAD",
-      "image": "https://pyxis.nymag.com/v1/imgs/045/fed/60966d175a6a6e653e21f0eeda4884dca3-27-radiohead-1993.rsquare.w700.jpg"
+      "image": "https://pyxis.nymag.com/v1/imgs/045/fed/60966d175a6a6e653e21f0eeda4884dca3-27-radiohead-1993.rsquare.w700.jpg",
+      "description": "Radiohead is an English rock band acclaimed for their experimental sound, innovative albums, and artistic depth.",
+      "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+      "youtube": "https://www.youtube.com/@Radiohead"
+
+
     },
     {
       "id": 22,
       "name": "RED HOT CHILI PEPPERS",
-      "image": "https://static.independent.co.uk/2022/03/31/10/newFile-6.jpg"
+      "image": "https://static.independent.co.uk/2022/03/31/10/newFile-6.jpg",
+      "description": "Red Hot Chili Peppers are an American rock band blending funk, punk, and alternative rock with energetic performances.",
+      "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
+      "youtube": "https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig"
+
+
     },
     {
       "id": 23,
       "name": "Ludwig van Beethoven",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
+      "description": "Ludwig van Beethoven was a German composer whose groundbreaking works bridged the Classical and Romantic eras of music.",
+      "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+      "youtube": "https://www.youtube.com/@HALIDONMUSIC"
+
     }
 
   ],

@@ -41,3 +41,20 @@
     font-size: 0.95rem;
     color: #ccc;
 }
+.preview-text {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.disc-icon {
+    transition: transform 0.3s ease;
+}
+
+.spinning {
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

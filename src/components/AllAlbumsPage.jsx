@@ -1,11 +1,10 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState } from "react";
 import MusicCard from "./MusicCard";
 
 const AllAlbumsPage = () => {
     const [albums, setAlbums] = useState([]);
     const [artists, setArtists] = useState([]);
     const [genres, setGenres] = useState([]);
-    const audioRef = useRef(null);
 
     useEffect(() => {
         fetch("/music.json")
@@ -18,24 +17,6 @@ const AllAlbumsPage = () => {
             .catch(err => console.error("Error loading albums/artists/genres:", err));
     }, []);
 
-    const playPreview = (previewUrl) => {
-        if (previewUrl) {
-            if (!audioRef.current) {
-                audioRef.current = new Audio(previewUrl);
-            } else {
-                audioRef.current.src = previewUrl;
-            }
-            audioRef.current.play().catch(err => console.log("Playback error:", err));
-        }
-    };
-
-    const stopPreview = () => {
-        if (audioRef.current) {
-            audioRef.current.pause();
-            audioRef.current.currentTime = 0;
-        }
-    };
-
     return (
         <div className="container my-5">
             <h2 className="text-center mb-4">Albums</h2>
@@ -47,17 +28,11 @@ const AllAlbumsPage = () => {
                     const albumWithDetails = {
                         ...album,
                         artistName: artist ? artist.name : "Unknown Artist",
-                        genreName: genre ? genre.name : "Unknown Genre",
-                        preview: album.preview || "/sample.mp3" // Default preview if not available
+                        genreName: genre ? genre.name : "Unknown Genre"
                     };
 
                     return (
-                        <div
-                            className="col-6 col-md-4 col-lg-3 col-xl-2"
-                            key={album.id}
-                            onMouseEnter={() => playPreview(albumWithDetails.preview)}
-                            onMouseLeave={stopPreview}
-                        >
+                        <div className="col-6 col-md-4 col-lg-3 col-xl-2" key={album.id}>
                             <MusicCard song={albumWithDetails} />
                         </div>
                     );
