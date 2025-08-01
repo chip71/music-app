@@ -1,0 +1,73 @@
+/* InfoPage.css */
+
+.info-page {
+    background: #121212;
+    color: white;
+    padding: 40px 20px;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+}
+
+.info-page h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 25px;
+    background: linear-gradient(90deg, #b28900, #f5c518);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.info-page h2 {
+    margin-top: 30px;
+    font-size: 1.8rem;
+    border-left: 4px solid #b28900;
+    padding-left: 10px;
+}
+
+.info-page p,
+.info-page ul,
+.info-page ol {
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.info-page ul,
+.info-page ol {
+    padding-left: 20px;
+}
+
+.info-page li {
+    margin-bottom: 8px;
+}
+.info-section {
+    margin-bottom: 40px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.info-section:hover {
+    box-shadow: 0 0 15px rgba(126, 147, 255, 0.8),
+    0 0 25px rgba(0, 81, 255, 0.5);
+    transform: translateY(-3px);
+}
+
+
+.info-highlight {
+    color: #b28900;
+    font-weight: bold;
+}
+
+.vinyl-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.info-page ol li::marker {
+    color: #b28900;
+    font-weight: bold;
+}

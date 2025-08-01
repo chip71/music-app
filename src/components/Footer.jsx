@@ -23,6 +23,7 @@ const Footer = () => {
                             <li><a href="/albums" className="footer-link">Albums</a></li>
                             <li><a href="/artists" className="footer-link">Artists</a></li>
                             <li><a href="/genres" className="footer-link">Genres</a></li>
+                            <li><a href="/info" className="footer-link">Info</a></li>
                         </ul>
                     </div>
 

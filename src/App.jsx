@@ -1,13 +1,14 @@
 import React from "react";
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Carousel from "./components/Carousel";
+import AutoAlbumSlider from "./components/AutoAlbumSlider.jsx";
 import MusicGrid from "./components/MusicGrid";
 import AllAlbumsPage from "./components/AllAlbumsPage";
 import AllArtistsPage from "./components/AllArtistsPage";
 import AllGenresPage from "./components/AllGenresPage";
 import SearchPage from "./components/SearchPage";
 import AlbumInfoPage from "./components/AlbumInfoPage";
+import InfoPage from "./components/InfoPage";
 
 import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -15,6 +16,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import ArtistInfoPage from "./components/ArtistInfoPage .jsx";
 import GenreInfoPage from "./components/GenreInfoPage.jsx";
+import BannerCarousel from "./components/BannerCarousel.jsx";
 
 const App = () => {
     return (
@@ -27,11 +29,15 @@ const App = () => {
                             path="/"
                             element={
                                 <>
-                                    <Carousel/>
+                                    <div className="container-fluid px-0">
+                                        <BannerCarousel />
+                                    </div>
+                                    <AutoAlbumSlider/>
                                     <MusicGrid/>
                                 </>
                             }
                         />
+                        <Route path="/info" element={<InfoPage />} />
                         <Route path="/albums" element={<AllAlbumsPage/>}/>
                         <Route path="/artists" element={<AllArtistsPage/>}/>
                         <Route path="/artist/:id" element={<ArtistInfoPage />} />
